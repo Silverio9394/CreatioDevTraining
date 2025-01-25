@@ -1,21 +1,14 @@
 ﻿{
   "Descriptor": {
-    "UId": "e9644a84-234d-8fca-7b2d-d9d8e30f93cb",
+    "UId": "6c7c04d1-dbae-3907-6e40-84874fd4b3c6",
     "Name": "UsrAppartmentType",
-    "ModifiedOnUtc": "\/Date(1737641517000)\/",
+    "ModifiedOnUtc": "\/Date(1737815377000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "882bdc9d-c0b9-4173-a998-892d7023df5f",
       "Name": "UsrAppartmentType"
     },
     "Columns": [
-      {
-        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "Description",
-        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
-      },
       {
         "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
         "IsForceUpdate": false,
@@ -24,8 +17,22 @@
         "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       },
       {
+        "ColumnUId": "3445ba40-73a4-d222-8252-77914d8dce16",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrAppartmentCode",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
         "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-        "IsForceUpdate": false,
+        "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "Name",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"

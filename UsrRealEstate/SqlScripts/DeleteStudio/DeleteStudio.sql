@@ -1,0 +1,1 @@
+delete from UsrAppartmentType where Name = 'Studio'

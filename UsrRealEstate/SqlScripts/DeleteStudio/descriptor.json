@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "5fe86885-2b5d-dc3b-e3c0-853913c8f22a",
+    "Name": "DeleteStudio",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1737815748000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

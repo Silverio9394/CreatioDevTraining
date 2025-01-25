@@ -40,6 +40,16 @@
 - MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16
 - MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16
 - MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16
++ MetaData.Schema.D2 {
+  "UId": "3445ba40-73a4-d222-8252-77914d8dce16",
+  "A2": "UsrAppartmentCode",
+  "A3": "882bdc9d-c0b9-4173-a998-892d7023df5f",
+  "A4": "882bdc9d-c0b9-4173-a998-892d7023df5f",
+  "A5": "596155f5-6429-496d-ae71-b2adb88a7fe0",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac",
+  "E2": 1
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","736c30a7-c0ec-4fa9-b034-2552b319b633","9e53fd7c-dde4-4502-a64c-b9e34148108b","3fabd836-6a53-4d8d-9069-6df88d9dae1e","3445ba40-73a4-d222-8252-77914d8dce16"]
 = MetaData.Schema.D20.A2 "UsrAppartmentTypeEvents"
 = MetaData.Schema.D36.A3 "882bdc9d-c0b9-4173-a998-892d7023df5f"
 = MetaData.Schema.D36.BS1 false
