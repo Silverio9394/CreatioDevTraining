@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "0b036197-17c8-45a3-b8b5-2ccdfc0f908a",
+      "A2": "UsrRealEstateRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "b2e2dc76-0498-4550-a7bb-e61c72bef7d8",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "51cebfb3-b575-4ef6-8c04-efc5bb107229",
+            "PageSchemaUId": "ded49983-9a6b-4c3e-853d-00a8a7cb5392",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

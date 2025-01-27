@@ -1,0 +1,2 @@
+alter SEQUENCE [9c450d2e-d58d-2328-859d-a15379e74956]
+restart with 00010

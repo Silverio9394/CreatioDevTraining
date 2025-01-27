@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "c1b1f3a0-2306-668c-3dff-0e6b8a3177cf",
+    "Name": "AltertRealEstateNumberSequence",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1737977654000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
