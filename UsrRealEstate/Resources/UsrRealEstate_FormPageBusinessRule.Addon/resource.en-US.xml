@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.d099226f-946f-7d48-9574-cac2d254c735.Caption" Value="Show elements: Comments" />
+			<Item Name="Caption" Value="Real Estate form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
